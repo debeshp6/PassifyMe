@@ -2,7 +2,7 @@
 Welcome to PassifyMe, a cutting-edge solution engineered to revolutionize the way you generate passwords. In the digital age where security is paramount, PassifyMe stands out as a beacon of simplicity and reliability. This innovative project, crafted with a blend of HTML, CSS, and JavaScript, empowers users with the ability to effortlessly create strong and secure passwords tailored to their preferences.
 # Table of Contents
 - [Introduction](#introduction)
-- [Features]()(#features)
+- [Features](#features)
 - [Live Website Preview](#live-website-preview)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
